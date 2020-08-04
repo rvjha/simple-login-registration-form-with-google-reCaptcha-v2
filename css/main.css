@@ -1,0 +1,26 @@
+/*=========================== main style ============================= */
+
+/* login and registration form  */
+.form-box{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 380px;
+    transform: translate(-50%, -50%);
+}
+/* otp modal */
+.modal-body b{
+
+    font-size: 16px;
+    font-weight: 400;
+
+}
+.modal-body input[type='text']{
+    width: 100px !important;
+    font-size: 14px;
+    display: inline-block ;
+}
+.modal-body input[type='submit']{
+    font-size: 14px;
+    display: inline-block ;
+}
