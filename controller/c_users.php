@@ -49,7 +49,7 @@ if($_POST){
         //! gRecaptcha
         $url = "https://www.google.com/recaptcha/api/siteverify";
 		$data = [
-			'secret' => "6LdKK7oZAAAAALgqLcyweLWrNL3gw9uKAxW4NGpe",
+			'secret' => "secret_key",
 			'response' => $_POST['token'],
 			// 'remoteip' => $_SERVER['REMOTE_ADDR']
 		];
