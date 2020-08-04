@@ -83,7 +83,7 @@ else{
    
       var onloadCallback = function() {
     grecaptcha.render('gRecaptcha', {
-          'sitekey' : '6LdKK7oZAAAAAKnwctR0tzOiSZ3P3dojeHTzR32R'
+          'sitekey' : 'site_key'
     });
   }
    
