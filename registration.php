@@ -78,7 +78,7 @@ else{
     </div>
   </div>
   <script>
-    //! ============================ google recaptcha2  =========================
+    //! ============================ google reCaptcha2  =========================
   
    
       var onloadCallback = function() {
