@@ -70,6 +70,10 @@ else{
             <div class="form-group">
               <input type="submit" value="Submit" class="btn btn-success" name="Submit"><span class="ml-3 h5 text-danger"id="Estatus"></span>
             </div> 
+            <div class="form-group">  
+              <span class="text-primary mr-5">Already registered</span>
+              <a href="index.php" class="ml-3">Log In</a>            
+            </div>
 
           </form>
         </div>

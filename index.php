@@ -43,6 +43,12 @@ if(@$_SESSION["userId"]){
                     </div>
                     <input  name="loginButton" id="lLogin" class="btn btn-primary" type="submit" value="Login">
                     <span class="h6 text-danger m-2" id='eState'></span>
+                    <div class="form-group mt-2">  
+                        <span class="text-primary mr-5">Not a user register</span>
+                        <a href="signup.php" class="ml-3">Sign Up</a>            
+                    </div>
+
+                    </form>
                 </form>
             </div>
         </div>
